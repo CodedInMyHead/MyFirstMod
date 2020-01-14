@@ -1,0 +1,25 @@
+{
+	"itemGroup.groupReference":"Micha's Mod",
+	
+	
+
+	"item.michadidthis.diamond_cutter":"Diamond Cutter",
+	"item.michadidthis.charged_gunpowder":"charged gunpowder",
+	"item.michadidthis.thunder_ingot":"thunder ingot",
+	
+	"block.michadidthis.example_block":"Example Mod",
+	
+
+	"item.michadidthis.bloody_sword":"Bloody Sword",
+	"item.michadidthis.ice_sword":"Ice Sword",
+	"item.michadidthis.example_axe":"Micha's Axe",
+	"item.michadidthis.example_hoe":"Micha's Hoe",
+	"item.michadidthis.example_pickaxe":"Micha's Pickaxe",
+	"item.michadidthis.example_shovel":"Micha's Shovel",
+	"item.michadidthis.example_sword":"Micha's Sword",
+	
+	"item.michadidthis.rich_helmet":"Rich Helmet",
+	"item.michadidthis.rich_chestplate":"Rich Chestplate",
+	"item.michadidthis.rich_leggings":"Rich Leggings",
+	"item.michadidthis.rich_boots":"Rich Boots"
+}

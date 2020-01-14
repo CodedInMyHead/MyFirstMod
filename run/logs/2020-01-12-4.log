@@ -1,0 +1,166 @@
+[12Jan2020 18:10:08.663] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20190829.143755, --fml.mcVersion, 1.14.4, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 28.1.0, --version, MOD_DEV, --assetIndex, 1.14, --assetsDir, C:\Users\micha\.gradle\caches\forge_gradle\assets, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[12Jan2020 18:10:08.669] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 3.2.0+60+b86c1d4 starting: java version 1.8.0_152 by Oracle Corporation
+[12Jan2020 18:10:09.440] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[12Jan2020 18:10:10.423] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\micha\.gradle\caches\forge_gradle\assets, --assetIndex, 1.14, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[12Jan2020 18:10:13.187] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[12Jan2020 18:10:25.615] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: lastServer:
+[12Jan2020 18:10:25.647] [Client thread/INFO] [net.minecraft.client.Minecraft/]: LWJGL Version: 3.2.2 build 10
+[12Jan2020 18:10:26.971] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 28.1.0, for MC 1.14.4 with MCP 20190829.143755
+[12Jan2020 18:10:26.971] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v28.1.0 Initialized
+[12Jan2020 18:10:27.553] [Client thread/INFO] [michadidthis/]: Blocks registered
+[12Jan2020 18:10:27.561] [Client thread/INFO] [michadidthis/]: Items registered
+[12Jan2020 18:10:31.479] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[12Jan2020 18:10:31.869] [modloading-worker-1/INFO] [michadidthis/]: Setup Method registered!
+[12Jan2020 18:10:31.870] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[12Jan2020 18:10:31.881] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[12Jan2020 18:10:32.095] [modloading-worker-1/INFO] [michadidthis/]: clientRegistries Method registered!
+[12Jan2020 18:10:32.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[12Jan2020 18:10:32.677] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[12Jan2020 18:10:32.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 28.1.0 Target: null
+[12Jan2020 18:10:36.618] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: lastServer:
+[12Jan2020 18:10:36.909] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[12Jan2020 18:10:36.910] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[12Jan2020 18:10:37.117] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512 textures-atlas
+[12Jan2020 18:10:37.818] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/particle-atlas
+[12Jan2020 18:10:37.827] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/painting-atlas
+[12Jan2020 18:10:37.830] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128 textures/mob_effect-atlas
+[12Jan2020 18:11:00.631] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Jan2020 18:11:00.631] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Jan2020 18:11:00.632] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Jan2020 18:11:00.633] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Jan2020 18:11:00.633] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Jan2020 18:11:00.774] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.14.4
+[12Jan2020 18:11:00.774] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Generating keypair
+[12Jan2020 18:11:00.837] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[12Jan2020 18:11:00.839] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[12Jan2020 18:11:00.924] [Server thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this SERVER instance
+[12Jan2020 18:11:01.416] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, main, forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar
+[12Jan2020 18:11:02.374] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[12Jan2020 18:11:03.771] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 811 advancements
+[12Jan2020 18:11:04.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Jan2020 18:11:05.434] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Jan2020 18:11:05.434] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Jan2020 18:11:05.434] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Jan2020 18:11:06.084] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 48%
+[12Jan2020 18:11:07.653] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[12Jan2020 18:11:07.655] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[12Jan2020 18:11:07.656] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[12Jan2020 18:11:07.909] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[12Jan2020 18:11:08.336] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[12Jan2020 18:11:08.837] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[12Jan2020 18:11:09.337] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[12Jan2020 18:11:09.837] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
+[12Jan2020 18:11:09.887] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 5555 ms
+[12Jan2020 18:11:10.734] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jan2020 18:11:10.735] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jan2020 18:11:13.269] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[12Jan2020 18:11:13.584] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:d084d5da] logged in with entity id 192 at (-262.67683532199015, 48.0, -295.30910450403456)
+[12Jan2020 18:11:13.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[12Jan2020 18:11:14.112] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[12Jan2020 18:11:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
+[12Jan2020 18:11:14.368] [Client thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 48 advancements
+[12Jan2020 18:11:15.086] [pool-3-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService/]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@1b5a4660[id=380df991-f603-344c-a090-369bad2a924a,name=Dev,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[authlib-1.5.25.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) ~[authlib-1.5.25.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) ~[authlib-1.5.25.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) ~[authlib-1.5.25.jar:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) ~[guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) ~[guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) ~[guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) ~[guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) ~[guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) ~[guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) ~[guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) ~[guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) ~[authlib-1.5.25.jar:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:1950) ~[?:?]
+	at net.minecraft.client.resources.SkinManager.lambda$loadProfileTextures$1(SkinManager.java:111) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_152]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_152]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+[12Jan2020 18:11:15.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[12Jan2020 18:11:17.207] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[12Jan2020 18:11:17.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
+[12Jan2020 18:11:39.596] [Client thread/WARN] [net.minecraft.client.renderer.texture.TextureManager/]: Failed to load texture: michadidthis:textures/models/armor/example_name_layer_1.png
+java.io.FileNotFoundException: michadidthis:textures/models/armor/example_name_layer_1.png
+	at net.minecraft.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:56) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:58) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture$TextureData.func_217799_a(SimpleTexture.java:66) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.func_215246_b(SimpleTexture.java:44) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.loadTexture(SimpleTexture.java:26) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:64) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.texture.TextureManager.bindTexture(TextureManager.java:45) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.EntityRenderer.bindTexture(EntityRenderer.java:101) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.layers.LayerRenderer.bindTexture(LayerRenderer.java:23) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.layers.ArmorLayer.renderArmorLayer(ArmorLayer.java:63) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.layers.ArmorLayer.render(ArmorLayer.java:42) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.layers.ArmorLayer.render(ArmorLayer.java:23) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.LivingRenderer.renderLayers(LivingRenderer.java:403) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.LivingRenderer.doRender(LivingRenderer.java:143) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.PlayerRenderer.doRender(PlayerRenderer.java:62) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.PlayerRenderer.doRender(PlayerRenderer.java:33) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.EntityRendererManager.renderEntity(EntityRendererManager.java:370) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.gui.screen.inventory.InventoryScreen.drawEntityOnScreen(InventoryScreen.java:131) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.gui.screen.inventory.CreativeScreen.drawGuiContainerBackgroundLayer(CreativeScreen.java:750) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.gui.screen.inventory.ContainerScreen.render(ContainerScreen.java:77) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.gui.DisplayEffectsScreen.render(DisplayEffectsScreen.java:45) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.gui.screen.inventory.CreativeScreen.render(CreativeScreen.java:612) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:347) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.GameRenderer.updateCameraAndRender(GameRenderer.java:569) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:922) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:384) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:128) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_152]
+	at net.minecraftforge.userdev.FMLUserdevClientLaunchProvider.lambda$launchService$0(FMLUserdevClientLaunchProvider.java:55) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-3.2.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:50) [modlauncher-3.2.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:68) [modlauncher-3.2.0.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:80) [modlauncher-3.2.0.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:65) [modlauncher-3.2.0.jar:?]
+	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:101) [forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+[12Jan2020 18:11:39.629] [Client thread/WARN] [net.minecraft.client.renderer.texture.TextureManager/]: Failed to load texture: michadidthis:textures/models/armor/example_name_layer_2.png
+java.io.FileNotFoundException: michadidthis:textures/models/armor/example_name_layer_2.png
+	at net.minecraft.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:56) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:58) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture$TextureData.func_217799_a(SimpleTexture.java:66) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.func_215246_b(SimpleTexture.java:44) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.loadTexture(SimpleTexture.java:26) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:64) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.texture.TextureManager.bindTexture(TextureManager.java:45) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.EntityRenderer.bindTexture(EntityRenderer.java:101) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.layers.LayerRenderer.bindTexture(LayerRenderer.java:23) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.layers.ArmorLayer.renderArmorLayer(ArmorLayer.java:63) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.layers.ArmorLayer.render(ArmorLayer.java:43) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.layers.ArmorLayer.render(ArmorLayer.java:23) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.LivingRenderer.renderLayers(LivingRenderer.java:403) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.LivingRenderer.doRender(LivingRenderer.java:143) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.PlayerRenderer.doRender(PlayerRenderer.java:62) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.PlayerRenderer.doRender(PlayerRenderer.java:33) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.entity.EntityRendererManager.renderEntity(EntityRendererManager.java:370) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.gui.screen.inventory.InventoryScreen.drawEntityOnScreen(InventoryScreen.java:131) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.gui.screen.inventory.CreativeScreen.drawGuiContainerBackgroundLayer(CreativeScreen.java:750) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.gui.screen.inventory.ContainerScreen.render(ContainerScreen.java:77) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.gui.DisplayEffectsScreen.render(DisplayEffectsScreen.java:45) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.gui.screen.inventory.CreativeScreen.render(CreativeScreen.java:612) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:347) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.renderer.GameRenderer.updateCameraAndRender(GameRenderer.java:569) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:922) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:384) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:128) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_152]
+	at net.minecraftforge.userdev.FMLUserdevClientLaunchProvider.lambda$launchService$0(FMLUserdevClientLaunchProvider.java:55) ~[forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-3.2.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:50) [modlauncher-3.2.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:68) [modlauncher-3.2.0.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:80) [modlauncher-3.2.0.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:65) [modlauncher-3.2.0.jar:?]
+	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:101) [forge-1.14.4-28.1.0_mapped_snapshot_20190719-1.14.3-recomp.jar:?]
